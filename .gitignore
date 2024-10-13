@@ -1,0 +1,50 @@
+# Pastas de compilação
+*.dcu
+*.~*
+*.dcp
+*.bpl
+*.bpi
+*.obj
+*.map
+*.cfg
+*.res
+*.il?
+*.tds
+*.ddp
+*.bak
+
+# Arquivos de dependência e compilação
+*.dsk
+*.dproj
+*.dproj.local
+*.groupproj
+*.identcache
+*.local
+*.stat
+*.tvsconfig
+*.tvsconfig.bak
+
+# Diretórios de output
+build/
+bin/
+Debug/
+Release/
+Win32/
+Win64/
+iOSDevice32/
+iOSDevice64/
+iOSSimulator/
+OSX32/
+
+# Backup e arquivos temporários
+*.~pas
+*.~dfm
+*.~fmx
+*.~nfm
+*.~xfm
+*.~txt
+*.log
+
+# Excluindo arquivos temporários do Delphi
+__history/
+__recovery/
